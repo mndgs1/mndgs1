@@ -17,3 +17,4 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/#E34F26" />
