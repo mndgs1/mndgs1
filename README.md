@@ -36,4 +36,4 @@
 </div>
 
 ## Stats
-<img src="https://github.com/anuraghazra/github-readme-stats" alt="mndgs1 Stats" />
+![Anurag's GitHub stats](https://github-readme-stats-git-master-mndgs1s-projects.vercel.app&show_icons=true&theme=transparent)
