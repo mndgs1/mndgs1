@@ -14,6 +14,7 @@
 ## I am a Husband, Father, Front-End Developer
 
     🔭 I’m currently studying Front-End development at NOROFF School of Techonology
+    🔨 I have many years experience working as a carpenter
     🌱 I’m currently learning more about Next.JS & NextUI
     📫 How to reach me: mindaugasbankauskas@gmail.com
     ⚡ Fun fact: Some people that I meet, ask for my height before asking for my
