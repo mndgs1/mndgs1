@@ -8,6 +8,8 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>
 </a>
 
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][https://www.facebook.com/mindaugas.bankauskas.50]
+
 ## A little about me
 
     🔭 I’m currently studying Front-End development at NOROFF School of Techonology
