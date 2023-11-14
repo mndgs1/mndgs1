@@ -2,7 +2,11 @@
 
 ## Connect with me
 
-[![Facebook](<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>)](https://www.facebook.com/mindaugas.bankauskas.50)
+[![Facebook](<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>)]()
+
+<a href="(https://www.facebook.com/mindaugas.bankauskas.50)" target="_blank">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>
+</a>
 
 ## A little about me
 
