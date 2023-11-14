@@ -14,7 +14,7 @@
 ## I am a Husband, Father, Front-End Developer
     🔭 I’m currently studying Front-End development at NOROFF School of Techonology
     🌱 I’m currently learning more about Next.JS & NextUI
-    📫 How to reach me: mindaugasbankauskas@gmail.com
+    📫 How to reach me: <a>mindaugasbankauskas@gmail.com</a>
     ⚡ Fun fact: Some people that I meet, ask for my height before asking for my
     name or just after. (Shout out to all tall people :D)
     🏈 2024 Goals: Learn about .NET framework
