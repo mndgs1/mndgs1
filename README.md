@@ -10,7 +10,7 @@
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)][https://www.facebook.com/mindaugas.bankauskas.50]
 
-[![Facebook][https://cdn.simpleicons.org/html5/E34F26]][https://www.facebook.com/mindaugas.bankauskas.50]
+[![Facebook][http://i.imgur.com/tXSoThF.png]][https://www.facebook.com/mindaugas.bankauskas.50]
 
 ## A little about me
 
