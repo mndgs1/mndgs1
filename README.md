@@ -2,15 +2,14 @@
 
 ## Connect with me
 
-[![Facebook](<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>)]()
-
-<a href="https://www.facebook.com/mindaugas.bankauskas.50" target="_blank">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>
-</a>
-
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)][https://www.facebook.com/mindaugas.bankauskas.50]
-
-[![Facebook][http://i.imgur.com/tXSoThF.png]][https://www.facebook.com/mindaugas.bankauskas.50]
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mindaugas-bankauskas/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/mindaugas.bankauskas.50">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## A little about me
 
@@ -35,3 +34,4 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/181717/FFFFFF" />
 </div>
+
