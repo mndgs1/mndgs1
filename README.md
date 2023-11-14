@@ -36,4 +36,4 @@
 </div>
 
 ## Stats
-![mndgs1's GitHub stats](https://github-readme-stats-mu-eight-83.vercel.app/api?username=mndgs1&show_icons=true&theme=transparent)
+![mndgs1's GitHub stats](github-readme-stats-mu-eight-83.vercel.app/api?username=mndgs1&show_icons=true&theme=transparent)
