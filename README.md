@@ -1,5 +1,5 @@
 # Hi there my name is Mindaugas👋
-# I am a Front-End development student located in Norway
+I am a Front-End development student located in Norway, Oslo.
 
 ## Connect with me
 
