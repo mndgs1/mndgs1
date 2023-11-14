@@ -7,7 +7,7 @@
     ⚡ Fun fact: A lot of new people that I meet, ask for my height before asking for
     my name or just after. (Yes I am tall :D)
 
-<div style="background-color:#ffffff border-radius:16px">
+<div style="style="background-color:#ffffff; border-radius:16px"">
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sass/#CC6699" />
