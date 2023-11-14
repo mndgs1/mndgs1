@@ -17,7 +17,7 @@
     📫 How to reach me: mindaugasbankauskas@gmail.com
     ⚡ Fun fact: Some people that I meet, ask for my height before asking for my
     name or just after. (Shout out to all tall people :D)
-    :football: 2024 Goals: Learn about .NET framework
+    🏈 2024 Goals: Learn about .NET framework
 
 ## Languages & Tools
 
@@ -34,3 +34,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/181717/FFFFFF" />&nbsp;&nbsp;&nbsp;
 </div>
+
+## Stats
+<img src="github-readme-stats-git-master-mndgs1s-projects.vercel.app" alt="mndgs1 Stats" />
