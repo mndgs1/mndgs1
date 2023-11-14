@@ -2,7 +2,7 @@
 
 ## Connect with me
 
-![Facebook](https://cdn.simpleicons.org/html5/E34F26)](https://www.facebook.com/mindaugas.bankauskas.50)
+[![Facebook](https://cdn.simpleicons.org/html5/E34F26)](https://www.facebook.com/mindaugas.bankauskas.50)
 
 ## A little about me
 
