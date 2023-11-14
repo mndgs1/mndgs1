@@ -2,7 +2,7 @@
 
 
     🔭 I’m currently studying Front-End developement at NOROFF School of Techonology
-    🌱 I’m currently learning more about Javascript and React
+    🌱 I’m currently learning more about Next.JS & NextUI
     📫 How to reach me: mindaugasbankauskas@gmail.com
     ⚡ Fun fact: A lot of new people that I meet, ask for my height before asking for
     my name or just after. (Yes I am tall :D)
