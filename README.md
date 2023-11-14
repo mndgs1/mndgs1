@@ -37,3 +37,5 @@
 
 ## Stats
 ![mndgs1's GitHub stats](github-readme-stats-mu-eight-83.vercel.app/api?username=mndgs1&show_icons=true&theme=transparent)
+
+[![Top Langs](github-readme-stats-mu-eight-83.vercel.app/api/top-langs/?username=mndgs1)](https://github.com/anuraghazra/github-readme-stats)
