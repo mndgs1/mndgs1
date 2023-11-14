@@ -14,17 +14,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/createreactapp/#09D3AC" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/#000000/#FFFFFF" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextui/#000000/#FFFFFF" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/#000000/FFFFFF" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextui/#000000/FFFFFF" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#FFFFFF" />
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/FFFFFF" />
