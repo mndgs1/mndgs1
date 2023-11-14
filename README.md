@@ -1,11 +1,21 @@
-## Hi there I am Mindaugas👋
+# Hi there my name is Mindaugas👋 I am a Front-End development student located in Norway
 
+## Connect with me
 
-    🔭 I’m currently studying Front-End developement at NOROFF School of Techonology
+<div>
+
+[![Facebook](https://cdn.simpleicons.org/facebook/0866FF)](https://www.facebook.com/mindaugas.bankauskas.50)
+
+    
+</div>
+
+## A little about me
+
+    🔭 I’m currently studying Front-End development at NOROFF School of Techonology
     🌱 I’m currently learning more about Next.JS & NextUI
     📫 How to reach me: mindaugasbankauskas@gmail.com
-    ⚡ Fun fact: A lot of new people that I meet, ask for my height before asking for
-    my name or just after. (Yes I am tall :D)
+    ⚡ Fun fact: Some people that I meet, ask for my height before asking for my
+    name or just after. (Shout out to all tall people, you know what I am talking about)
 
 ## Languages & Tools
 
