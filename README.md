@@ -34,4 +34,3 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/181717/FFFFFF" />&nbsp;&nbsp;&nbsp;
 </div>
-
