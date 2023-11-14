@@ -4,8 +4,7 @@
 
 <div>
 
-![Facebook](https://cdn.simpleicons.org/facebook/0866FF)](https://www.facebook.com/mindaugas.bankauskas.50)
-[![Facebook]](https://cdn.simpleicons.org/facebook/0866FF)
+![Facebook](<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />)](https://www.facebook.com/mindaugas.bankauskas.50)
 
     
 </div>
