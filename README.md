@@ -36,4 +36,4 @@
 </div>
 
 ## Stats
-<img src="github-readme-stats-git-master-mndgs1s-projects.vercel.app" alt="mndgs1 Stats" />
+<img src="https://github.com/anuraghazra/github-readme-stats" alt="mndgs1 Stats" />
