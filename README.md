@@ -1,5 +1,4 @@
 # Hi there my name is Mindaugas👋
-I am a Front-End development student located in Norway, Oslo.
 
 ## Connect with me
 
@@ -12,13 +11,13 @@ I am a Front-End development student located in Norway, Oslo.
   </a>
 </div>
 
-## A little about me
-
+## I am a Husband, Father, Front-End Developer
     🔭 I’m currently studying Front-End development at NOROFF School of Techonology
     🌱 I’m currently learning more about Next.JS & NextUI
     📫 How to reach me: mindaugasbankauskas@gmail.com
     ⚡ Fun fact: Some people that I meet, ask for my height before asking for my
-    name or just after. (Shout out to all tall people, you know what I am talking about)
+    name or just after. (Shout out to all tall people :D)
+    :football: 2024 Goals: Learn about .NET framework
 
 ## Languages & Tools
 
