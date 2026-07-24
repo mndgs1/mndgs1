@@ -2,8 +2,6 @@
 
 ### Full-stack Developer · Next.js · TypeScript · React · GraphQL
 
-I build production e-commerce experiences that connect modern web applications with complex business systems. At Plantasjen / Plantagen, I work on multilingual, multi-market platforms serving customers across Norway and Sweden.
-
 ## About me
 
 - 🌱 Full-stack developer based in Norway
