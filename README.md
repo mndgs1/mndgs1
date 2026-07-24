@@ -26,8 +26,3 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/181717/FFFFFF" />&nbsp;&nbsp;&nbsp;
 </div>
-
-## Stats
-![mndgs1's GitHub stats](https://github-readme-stats-mu-eight-83.vercel.app/api?username=mndgs1&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats-mu-eight-83.vercel.app/api/top-langs/?username=mndgs1&layout=compact&theme=transparent)](https://github.com/mndgs1/github-readme-stats)
