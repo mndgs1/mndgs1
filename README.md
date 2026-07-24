@@ -9,6 +9,7 @@
 - 🔐 Experienced with custom authentication and proxy layers for legacy APIs
 - 🔎 Working with content modelling, product search and headless commerce
 - 🧪 Focused on type-safe code, maintainable architecture and end-to-end testing
+- ♟️ When I'm not untangling APIs, I enjoy playing chess and looking for the next good move
 - 🎓 Front-End Development graduate from Noroff
 - 🌍 Lithuanian (native), English (fluent) and Norwegian (B1)
 
